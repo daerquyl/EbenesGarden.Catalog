@@ -3,3 +3,8 @@
 ################################################################################
 
 *.v1
+/Catalog.Data/obj/Debug/net6.0
+/Catalog.Web.Api/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+/Catalog.Web.Api/obj/Debug/net6.0
+/EbenesGarden/obj/Debug/net6.0
+/.vs/EbenesGarden.Catalog/v17/TestStore/0
